@@ -4,5 +4,4 @@ Bun.serve({
   fetch: app.fetch,
 });
 
-console.log("Server running");
-
+console.log("⚡⚡⚡ If you see this log that because our server is running! ⚡⚡⚡");
