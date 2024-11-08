@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import { cors } from "hono/cors";
-import { notesRoutes } from "./routes/notes";
+import { notesRoutes } from "./src/routes/notes";
 
 const app = new Hono();
 
